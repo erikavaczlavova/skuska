@@ -2,6 +2,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+//daaam sem komentar jna skusku hhdhadha
+
+hjhj
 
 //----------------------------FUNKCIA V-----------------------------------------------nacitanie a vypis 
 void vytvor_vypis(FILE **subor){	
